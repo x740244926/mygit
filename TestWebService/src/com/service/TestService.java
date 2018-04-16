@@ -4,7 +4,7 @@ public class TestService {
 
 	public int checkUserRight(String userId, String password) {
 
-		// ¼ÙÉè½øÐÐÊý¾Ý¿â²Ù×÷
+		// æˆ‘æ˜¯å¤§å¸…å“¥
 
 		if (password != null && "fred".equals(userId)) {
 
@@ -12,7 +12,7 @@ public class TestService {
 
 		}
 
-		return 0;
+		return 00000;
 
 	}
 
