@@ -1,0 +1,4 @@
+E\:/Users/Administrator/workspace/TestWebServiceEAR/EarContent/APP-INF/classes = APP-INF/classes
+E\:/Users/Administrator/workspace/TestWebService/WebContent = TestWebService.war
+E\:/Users/Administrator/workspace/TestWebService/build/weboutput = TestWebService.war
+E\:/Users/Administrator/workspace/TestWebService/build/classes = TestWebService.war/WEB-INF/classes
